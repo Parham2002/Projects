@@ -1,3 +1,5 @@
+#Training project with help of freecodecamp.org
+
 import time
 import random
 
